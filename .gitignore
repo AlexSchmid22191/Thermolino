@@ -3,4 +3,9 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+<<<<<<< HEAD
 .vscode/extensions.json
+=======
+.vscode/
+*/README
+>>>>>>> fe889250ac3c1c5f23c6f3d488fe033ce325ba65
