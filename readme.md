@@ -1,0 +1,1 @@
+Firmware for the Thermolino 1 (Based on the Termopar breakout for the MAX31856)
